@@ -5,7 +5,7 @@
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.33
+            "scaleInDock": 1
         },
         "Cliff_tileset.tsx": {
             "scaleInDock": 0.12,
@@ -50,7 +50,7 @@
             "scaleInEditor": 1
         }
     },
-    "last.externalTilesetPath": "C:/Users/dev/Downloads/_tree_01/_tree_01",
+    "last.externalTilesetPath": "C:/project/virtual_office",
     "last.imagePath": "C:/Users/dev/Downloads/LPC_house_interior/LPC_house_interior",
     "last.objectTypesPath": "C:/project/virtual_office/map.json",
     "map.lastUsedFormat": "json",
