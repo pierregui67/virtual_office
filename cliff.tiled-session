@@ -19,10 +19,22 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "map.json#bushes": {
+            "scaleInEditor": 1
+        },
         "map.json#floortileset": {
             "scaleInEditor": 1
         },
+        "map.json#interior": {
+            "scaleInEditor": 1
+        },
         "map.json#office_1": {
+            "scaleInEditor": 1
+        },
+        "map.json#tree 1": {
+            "scaleInEditor": 1
+        },
+        "map.json#tree side": {
             "scaleInEditor": 1
         },
         "preview.tsx": {
