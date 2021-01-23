@@ -12,9 +12,11 @@
             "scaleInEditor": 1
         },
         "bushes.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "interior.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "map.json#floortileset": {
@@ -28,9 +30,11 @@
             "scaleInEditor": 1
         },
         "tree 1.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "tree side.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
