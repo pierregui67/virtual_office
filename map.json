@@ -952,7 +952,7 @@
         {
          "columns":19,
          "firstgid":321,
-         "image":"..\/..\/Users\/dev\/Downloads\/_tree_01\/_tree_01\/_tree_01_00000.png",
+         "image":"_tree_01_00000.png",
          "imageheight":723,
          "imagewidth":631,
          "margin":0,
@@ -965,7 +965,7 @@
         {
          "columns":19,
          "firstgid":739,
-         "image":"..\/..\/Users\/dev\/Downloads\/_tree_01\/_tree_01\/_tree_01_10000.png",
+         "image":"_tree_01_10000.png",
          "imageheight":723,
          "imagewidth":631,
          "margin":0,
@@ -978,7 +978,7 @@
         {
          "columns":13,
          "firstgid":1157,
-         "image":"..\/..\/Users\/dev\/Downloads\/plant repack.png",
+         "image":"plant repack.png",
          "imageheight":416,
          "imagewidth":416,
          "margin":0,
@@ -991,7 +991,7 @@
         {
          "columns":16,
          "firstgid":1326,
-         "image":"..\/..\/Users\/dev\/Downloads\/LPC_house_interior\/LPC_house_interior\/interior.png",
+         "image":"interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
