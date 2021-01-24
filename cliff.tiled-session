@@ -1,5 +1,5 @@
 {
-    "activeFile": "",
+    "activeFile": "map.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
@@ -11,7 +11,19 @@
             "scaleInDock": 0.12,
             "scaleInEditor": 1
         },
+        "alchemy.preview.mini.grid.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "alchemy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "bushes.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dark-wood.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -19,25 +31,50 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "map.json": {
+            "scale": 0.2019,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1684.0019811788015,
+                "y": 1367.0133729569095
+            }
+        },
         "map.json#bushes": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#dark-wood": {
             "scaleInEditor": 1
         },
         "map.json#floortileset": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "map.json#interior": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "map.json#office_1": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "map.json#tree 1": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "map.json#tree side": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "music-OCAL.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "preview.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "roguelikeSheet_transparent.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -48,22 +85,34 @@
         "tree side.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "ukulele.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
     "last.externalTilesetPath": "C:/project/virtual_office",
-    "last.imagePath": "C:/Users/dev/Downloads/LPC_house_interior/LPC_house_interior",
+    "last.imagePath": "C:/project/virtual_office",
     "last.objectTypesPath": "C:/project/virtual_office/map.json",
     "map.lastUsedFormat": "json",
     "openFiles": [
+        "map.json"
     ],
     "project": "cliff.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
+        "alchemy.preview.mini.grid.tsx",
+        "alchemy.tsx",
+        "ukulele.tsx",
+        "music-OCAL.tsx",
+        "dark-wood.tsx",
+        "roguelikeSheet_transparent.tsx",
+        "map.json",
         "preview.tsx",
         "interior.tsx",
         "bushes.tsx",
         "Cliff_tileset.tsx",
-        "tree 1.tsx",
-        "tree side.tsx"
+        "tree 1.tsx"
     ],
     "tileset.lastUsedFilter": "Tous les Fichiers (*)",
     "tileset.lastUsedFormat": "tsx"
