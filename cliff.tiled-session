@@ -39,12 +39,15 @@
                 "y": 1367.0133729569095
             }
         },
+        "map.json#alchemy.preview.mini.grid": {
+            "scaleInEditor": 1
+        },
         "map.json#bushes": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "map.json#dark-wood": {
-            "scaleInEditor": 1
+            "scaleInEditor": 0.7534
         },
         "map.json#floortileset": {
             "scaleInDock": 1,
